@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MCA.
 - 💞️ I’m looking to collaborate if u have a great idea.
 - 📫 How to reach me :subhalaxmiach955@gmail.com
-- 😄 Pronouns: Sibani
+  
 
 <!---
 subha-1/subha-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
